@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">An aspiring Frontend Developer from Poland.</h3>
 
-- 🔭 I’m currently working on **Angular projects**
+- 🔭 I’m currently working on **Angular projects** 😊
 
-- 🌱 I’m currently planing to learn **Ionic**
+- 🌱 I’m currently planing to learn **Ionic** 😎
 
 - 💬 Ask me about **Eager to earn new skills and experience!**
 
