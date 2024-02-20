@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently planing to learn **Ionic** 😎
 
-- 💬 Ask me about **Eager to earn new skills and experience!**
+- 💬 **Eager to earn new skills and experience!**
 
-- 📫 How to reach me **bartosztaraszkiewicz@wp.pl**
+- 📫 How to reach me: **bartosztaraszkiewicz@wp.pl**
 
 - ⚡ Fun fact **I love traveling to Latin America!**
 
