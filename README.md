@@ -10,6 +10,8 @@
 - 📫 How to reach me: **bartosztaraszkiewicz@wp.pl**
 
 - ⚡ Fun fact **I love traveling to Latin America!**
+  
+![giphy](https://github.com/navarrojg/navarrojg/assets/115883736/dc39e5b7-d2ad-4521-8b12-167e1a4b4838)
 
 <p align="left">
 </p>
