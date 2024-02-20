@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I love traveling to Latin America!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
