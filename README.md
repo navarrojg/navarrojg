@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **bartosztaraszkiewicz@wp.pl**
 
-- ⚡ Fun fact **I love traveling to Latin America!**
+- ⚡ Fun fact: **I love traveling to Latin America!**
   
 <p align="left">
 </p>
