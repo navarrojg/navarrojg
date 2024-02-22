@@ -25,7 +25,7 @@
 
 - 🐱 <a href="https://github.com/navarrojg/projectX">Add Your Pet Angular App</a>
 
-- 🍝 <a href="https://github.com/navarrojg/recipeBookNgrx">Recpie Book Angular App - NGRX verison</a>
+- 🍝 <a href="https://github.com/navarrojg/recipeBookNgrx">Recipe Book Angular App - NGRX verison</a>
 
 
 
