@@ -21,4 +21,7 @@
 
 - 🐴 <a href="https://github.com/navarrojg/horseVetClinic">Horse Veterinary Clinic website</a>
 
+- 🩺 <a href="https://github.com/navarrojg/AngularVetClinic">Angular Vet Clinic App</a>
+
+
 ![giphy](https://github.com/navarrojg/navarrojg/assets/115883736/dc39e5b7-d2ad-4521-8b12-167e1a4b4838)
